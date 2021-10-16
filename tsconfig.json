@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "rootDir": "./",
+    "esModuleInterop": true,
+    "strict": false,
+    "sourceRoot": "./src",
+    "inlineSourceMap": true
+  }
+}
